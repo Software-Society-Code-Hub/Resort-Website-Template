@@ -7,4 +7,4 @@ The website was built around 2019 during my highschool days(currently a college 
 
 I am also available for freelancing, currently a Full Stack Developer with a focus on MongoDB, ExpressJS, VueJS, and NodeJS(MEVN) stack. I also know how to use Socket.IO and build mobile apps through Ionic-Vue.
 
-Contact me: through <a href="https://www.facebook.com/LeindfraustBusiness/" target="_blank">Facebook</a> or my <a href="https://github.com/leindfraust">Github</a>
+Contact me through <a href="https://www.facebook.com/LeindfraustBusiness/" target="_blank">Facebook</a> or my <a href="https://github.com/leindfraust">Github</a>
